@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @SaiBalusu-usf
 
-- 🎓 MBA Candidate (AI Minor) at University of South Florida  
+- 🎓 MS Candidate (Data Intelligence & AI ) at University of South Florida  
 - 🌍 Based in Tampa Bay Area, FL
 
 ## 👀 I’m interested in
@@ -30,4 +30,4 @@
 He / Him
 
 ## ⚡ Fun fact
-I’m building a AI based website for job seekers. 
+I’m building an AI-based website for job seekers. 
