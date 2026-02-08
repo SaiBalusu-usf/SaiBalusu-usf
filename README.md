@@ -22,7 +22,7 @@
 - Real-time data visualization tools
 
 ## 📫 How to reach me
-- 📧 Email: [saikrishnamanohar@outlook.com](mailto:saikrishnamanohar@outlook.com)  
+- 📧 Email: [saikrishnamanoharbalusu@outlook.com](mailto:saikrishnamanohar@outlook.com)  
 - 🔗 LinkedIn: [linkedin.com/in/sai-krishna-manohar-balusu](https://www.linkedin.com/in/sai-krishna-manohar-balusu/)  
 - 🌐 Portfolio: [saibalusu.com](https://saibalusu.com)  
 
