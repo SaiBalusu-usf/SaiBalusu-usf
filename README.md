@@ -1,7 +1,6 @@
 # 👋 Hi, I’m @SaiBalusu-usf
 
 - 🎓 MS Candidate (Data Intelligence & AI ) at University of South Florida  
-- 🌍 Based in Tampa Bay Area, FL
 
 ## 👀 I’m interested in
 - AI-powered web apps & automation  
