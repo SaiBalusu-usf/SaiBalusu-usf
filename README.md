@@ -1,6 +1,6 @@
-# 👋 Hi, I’m @SaiBalusu-usf
+# 👋 Hi, I’m Sai Krishna Manohar Balusu
 
-- 🎓 MS Candidate (Data Intelligence & AI ) at University of South Florida  
+- 🎓An AI Engineer and MS Candidate (Data Intelligence & AI ) at University of South Florida  
 
 ## 👀 I’m interested in
 - AI-powered web apps & automation  
@@ -8,7 +8,7 @@
 - Full-stack development (Next.js, React, Node.js, python)  
 - Cloud infrastructure (Azure, Firebase, GCP, AWS, Heroku)
 
-## 🌱 I’m currently learning
+## 🌱 I learnt 
 - Advanced machine learning (TensorFlow, PyTorch)  
 - Serverless architectures & CI/CD pipelines  
 - Generative AI & prompt engineering  
@@ -29,4 +29,4 @@
 He / Him
 
 ## ⚡ Fun fact
-I’m building an AI-based website for job seekers. 
+2 patents pending 
