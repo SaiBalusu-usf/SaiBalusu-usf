@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Good models. Great systems.</title>
+  <desc id="desc">A navy engineering banner with a vivid green headline and a subtle connected-node illustration.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101b33"/>
+      <stop offset="1" stop-color="#080f1d"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#b6fa69"/>
+      <stop offset="1" stop-color="#4ee4bb"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".055"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="260" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="260" fill="url(#background)"/>
+    <rect width="1200" height="260" fill="url(#grid)"/>
+    <circle cx="1075" cy="130" r="238" fill="#4ee4bb" fill-opacity=".035"/>
+    <path d="M0 259H1200" stroke="url(#accent)" stroke-width="4"/>
+    <text x="66" y="52" fill="#98aac5" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="4">SAI / AI ENGINEERING</text>
+    <text x="62" y="121" fill="#f5f8ff" font-family="Arial, Helvetica, sans-serif" font-size="49" font-weight="800" letter-spacing="-1">Good models.</text>
+    <text x="62" y="183" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="49" font-weight="800" letter-spacing="-1">Great systems.</text>
+    <text x="66" y="221" fill="#a9bbd1" font-family="Arial, Helvetica, sans-serif" font-size="17">Build thoughtfully  /  Evaluate honestly  /  Ship reliably</text>
+    <g fill="none" stroke="#66dcb8" stroke-opacity=".55" stroke-width="2">
+      <path d="M793 169L860 97 932 133 1005 61 1103 112"/>
+      <path d="M860 97L891 198 1000 190 1103 112"/>
+      <path d="M932 133L1000 190 1005 61"/>
+      <circle cx="946" cy="127" r="91" stroke-opacity=".16"/>
+      <circle cx="946" cy="127" r="126" stroke-opacity=".09"/>
+    </g>
+    <g fill="#0d1b2d" stroke="#a7f66f" stroke-width="3">
+      <circle cx="793" cy="169" r="7"/>
+      <circle cx="860" cy="97" r="7"/>
+      <circle cx="932" cy="133" r="7"/>
+      <circle cx="1005" cy="61" r="7"/>
+      <circle cx="1103" cy="112" r="7"/>
+      <circle cx="891" cy="198" r="7"/>
+      <circle cx="1000" cy="190" r="7"/>
+    </g>
+  </g>
+</svg>
